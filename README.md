@@ -1,4 +1,5 @@
 # _printf function
+---
 ## Description
 
 In this repo we store all the code to run ``_printf``,  our version of the function ``printf``. This function replicates some of the processes of the function in the standard library ``stdio.h``.
@@ -41,6 +42,6 @@ Our program works as the following diagram:
   
 ## Authors  
   
-Alejandro Torres - https://github.com/torres1-23
-Daniel Chavez - https://github.com/JRodriguez9510
+Alejandro Torres - https://github.com/torres1-23  
+Daniel Chavez - https://github.com/JRodriguez9510 
 Jorge Rodriguez - https://github.com/dantereto  
