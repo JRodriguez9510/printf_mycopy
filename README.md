@@ -17,7 +17,7 @@ The prototypes to all of the functions we used during the coding process are sto
 
 ## Functions:
 
-Each function has its own description displayed as comments on top of it. You will find a file [_functions.c][https://github.com/JRodriguez9510/printf_mycopy/blob/master/_functions.c] were you can check the functions we have developed, as well as [man page][https://github.com/JRodriguez9510/printf_mycopy/blob/master/man_3_printf] manual page with the general use of the function, including the modifiers after the "%" flag.
+Each function has its own description displayed as comments on top of it. You will find a file [_functions.c](https://github.com/JRodriguez9510/printf_mycopy/blob/master/_functions.c) were you can check the functions we have developed, as well as [man page](https://github.com/JRodriguez9510/printf_mycopy/blob/master/man_3_printf) manual page with the general use of the function, including the modifiers after the "%" flag.
 
 As general rule for this repository each file contains up to 5 functions, and each function cannot be over 43 lines of code.
 
