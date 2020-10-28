@@ -29,15 +29,18 @@ To use our function it is necessarry to use the flag "%" and a format depending 
 - i : Prints integers with sign.
 
 ## Example  
+The programm takes any other character before the flag "%" and prints them, once the flag is determine, the program compares the next char to it and determines what kind of function has to be used.
+  
 i.e The line ``_printf("Hello %s", "World")`` would print ``"Hello World"``.  
-The programm takes any other character before the flag "%" and prints them, once the flag is determine, the program compares the next char to it and determines what kind of function has to be used.  
-In case that the format does not match any of the options, the program will take it as a regular char and print it.   
+  
+In case that the format does not match any of the options, the program will take it as a regular char and print it.  
 ## Diagram  
-Our program works as the following diagram:  
-![](https://github.com/JRodriguez9510/printf_mycopy/blob/master/Diagram%20_printf.png?raw=true)
-
-## Authors
-
+Our program works as the following diagram:
+  
+![](https://github.com/JRodriguez9510/printf_mycopy/blob/master/Diagram%20_printf.png?raw=true)  
+  
+## Authors  
+  
 Alejandro Torres - https://github.com/torres1-23
 Daniel Chavez - https://github.com/JRodriguez9510
 Jorge Rodriguez - https://github.com/dantereto  
