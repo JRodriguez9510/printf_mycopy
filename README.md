@@ -43,5 +43,5 @@ Our program works as the following diagram:
 ## Authors  
   
 Alejandro Torres - https://github.com/torres1-23  
-Daniel Chavez - https://github.com/JRodriguez9510 
-Jorge Rodriguez - https://github.com/dantereto  
+Daniel Chavez - https://github.com/dantereto  
+Jorge Rodriguez - https://github.com/JRodriguez9510  
